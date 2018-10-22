@@ -1,0 +1,33 @@
+I could see the differences.
+
+Q2: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A: I can see which things I have already tried. 
+It lets me see how the code has been refactored.
+
+Q3: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros:
++ It's easier to trace back for the changes done
++ easier to debug
++ easier to communicate with other developers
+Cons:
+- one might delay commits, budle too many changes
+- it takes some time to do it
+- might interrupt the flow of coding work
+
+Q4: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+It's because of the type of work: with ggl docs, one file is a logical whole. It is written at once. 
+When developing systems, it consists of multiple files. One functionality requires changes to several filesm that's why it needs to be tracked together.
+
+Q5: How can you use the commands git log and git diff to view the history of files?
+Find all the commits, what was done and by whom. I can compare the commits; what was changed.
+
+Q6: How might using version control make you more confident to make changes that could break something?
+I can try different solutions. I can always go back to different versions.
+But of course, I need to be mindful with the commits. Without the ver ctrl I would have to remember what I did.
+
+Q7: Now that you have your workspace set up, what do you want to try using Git for?
+I want to use it for the full stack course. I also want to learn our dev environment and understand how our stuff works.
+
+7c81b8021ec16c5c7b240220314d01200957d605
+
+
