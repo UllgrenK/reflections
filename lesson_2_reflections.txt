@@ -1,2 +1,13 @@
 What happens when you initialize a repository? Why do you need to do it?
 Git starts tracking the versions. It's needed to use git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Working dir has all files on my local computer. Repository is the collection of files that the versions are tracked and will be shared with others. Repository has the commits. Staging helps to bridge the changes I've made on my local machine to the commit to the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I only add the right files to the staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When developing a bigger feature or experiments, I want to create a new branch for each.
+
+
