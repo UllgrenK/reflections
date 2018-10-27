@@ -16,4 +16,7 @@ Because they are visual representations of the branches and commits.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Result is one single version of the file, with commit history of the both. It's easier to think of the master branch and divert and merge to it, than just freely merge.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merge saves a lot of time and effort in cases when it's clear that there isn't any conflict.
+
 
