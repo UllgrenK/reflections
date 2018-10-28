@@ -7,4 +7,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
 If others have made changes to the master branch, I want to know it won't conflict with my changes. The other thing is, that I want to publish code only when the functionalities are complete.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork: I want to modify code, that I don't have direct rights to modify. My changes are only available in my fork. I can suggest changes to the original code, but the orignal author will decide if she accepts them.
+Clone: clone a repository to my local machine. I can pull and push changes from and to the github repository. Others can have rights to modify the github repository. I use this when I develop stomething in collaboration with others, or want to publish my code openly available.
+Branch: I can create a branch on my local computer for developing a new feature. I can merge to the master and push to the github repository when the feature is ready.
 
