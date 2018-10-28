@@ -12,3 +12,9 @@ Fork: I want to modify code, that I don't have direct rights to modify. My chang
 Clone: clone a repository to my local machine. I can pull and push changes from and to the github repository. Others can have rights to modify the github repository. I use this when I develop stomething in collaboration with others, or want to publish my code openly available.
 Branch: I can create a branch on my local computer for developing a new feature. I can merge to the master and push to the github repository when the feature is ready.
 
+Random reflections: didn't quite get the idea of fast forward merge. Maybe I'll get it later.
+To solve the merge conflict, I had to revisit the previous lesson, since I had forgotten how to solve merge conflicts and commit the solved file.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+I can compile and run a my code locally.
+
